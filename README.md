@@ -16,8 +16,11 @@ Tflearn any version(all distributions after 2018)
 <br>
 NVIDIA NeMo(<br>
 apt-get install sox libsndfile1 ffmpeg
+<br>
 pip install wget unidecode
+ <br>
 BRANCH = 'v1.0.0b2'
+  <br>
 python -m pip install git+https://github.com/NVIDIA/NeMo.git@$v1.0.0b2#egg=nemo_toolkit[tts]
 <br>
 )
