@@ -21,7 +21,7 @@ pip install wget unidecode
  <br>
 BRANCH = 'v1.0.0b2'
   <br>
-python -m pip install git+https://github.com/NVIDIA/NeMo.git@$v1.0.0b2#egg=nemo_toolkit[tts]
+python -m pip install git+https://github.com/NVIDIA/NeMo.git@$BRANCH#egg=nemo_toolkit[tts]
 <br>
 )
 <br>
